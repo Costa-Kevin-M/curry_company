@@ -1,0 +1,9 @@
+Pillow == versão 9.4.0
+streamlit == 1.25.0
+pandas == 2.0.3
+streamlit == 1.25.0
+folium == 0.14.0
+plotly == 5.16.0
+streamlit_folium == 0.13.0
+haversine == 2.8.0
+numpy == 1.22.1
